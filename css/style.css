@@ -1,0 +1,22 @@
+body {
+	margin-top: 55px;
+}
+.jumbotron {
+	width: 100%;
+	background-image: url(../img/tampilan.jpg);
+	height: 50vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+}
+.jumbotron h1 {
+	width: 100%;
+	text-align: center;
+	line-height: 50vh;
+	font-size: 30px;
+	text-shadow: 3px 3px 8px black;
+}
+.container .navbar-brand a {
+	color: white;
+}
